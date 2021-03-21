@@ -68,6 +68,8 @@
                   </author>
                   <title>Labirinti postsocializma</title>
                   <title>socialni spomin tekstilnih delavk in delavcev</title>
+                  <idno type="cobiss">235946240</idno>
+                  <idno type="isbn">978-961-6192-37-8</idno>
                   <imprint>
                      <pubPlace>Ljubljana</pubPlace>
                      <publisher>Institutum Studiorum Humanitatis, Fakulteta za podiplomski humanistični študij</publisher>
@@ -75,8 +77,6 @@
                   </imprint>
                </monogr>
                <series>Documenta</series>
-               <idno type="cobiss">235946240</idno>
-               <idno type="isbn">978-961-6192-37-8</idno>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -901,7 +901,7 @@
                <titlePart type="main">Labirinti postsocializma</titlePart>
                <titlePart type="sub">Socialni spomini tekstilnih delavk in delavcev</titlePart>
             </docTitle>
-            <graphic url="Pictures/ovitek_Labirinti_postsocializma.jpg" xml:id="image.1" xml:base="http://www2.sistory.si/publikacije/monografije/Vodopivec_Labirinti/"/>
+            <graphic url="http://www2.sistory.si/publikacije/monografije/Vodopivec_Labirinti/Pictures/ovitek_Labirinti_postsocializma.jpg" xml:id="image.1"/>
             <docImprint>
                <publisher>Inštitut za novejšo zgodovino</publisher>
                <pubPlace>Ljubljana</pubPlace>
